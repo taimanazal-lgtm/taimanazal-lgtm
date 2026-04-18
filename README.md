@@ -11,7 +11,7 @@
 I am a fourth-year computer engineering student with an academic and practical background in software engineering, including backend development, networking, cybersecurity, artificial intelligence, and systems programming.I have experience in both group and individual projects and am seeking a summerinternship to gain practical experience in this field and contribute to real-world software solutions and systems.
 
 
-🛠️ Tech Stack
+🛠️ 💡 Skills
 -------------------------------------------------------------------------
 Programming Languages: Python, Java,C, JavaScript
 Backend: Flask, REST APIs
